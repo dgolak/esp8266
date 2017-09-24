@@ -1,4 +1,6 @@
 # How to build RC Car with the esp8266. #
+<img src="https://github.com/dgolak/esp8266/blob/master/images/20.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/65.jpg" width="360">
 
 At the beginning my story I would like to say, that this was my first time to IOT topic.
 I'm a complete beginner, but one thing I have is the desire  to known new technologies.
@@ -16,8 +18,8 @@ Next I bought the engine but I didn't know nothing about.
 So I bought two engines SG90 but it turned out, that it is only the servo engine :(
 
 Afterwards I was reading about engines and I bought two engines and motor shield (L298N)
-<img src="https://github.com/dgolak/esp8266/blob/master/images/60.jpg">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/80.jpg">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/60.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/80.jpg" width="360">
 
 ### Together with my son (7years old) we used old lego car body and double sided tape :) ###
 
