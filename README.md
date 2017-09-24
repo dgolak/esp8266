@@ -14,7 +14,7 @@ The first success when I could turn on and turn off Led :)
 Next I bought distance sensor, temperature and humidity sensor....
 
 Next I bought the engine but I didn't know nothing about.
-So I bought two engines SG90 but it turned out, that it is only the servo engine :(
+So I bought two engines SG90. Unfortunately but it turned out, that it is only the servo engine :(
 
 Afterwards I was reading about engines and I bought two engines and motor shield (L298N)
 <img src="https://github.com/dgolak/esp8266/blob/master/images/60.jpg" width="360"> <img src="https://github.com/dgolak/esp8266/blob/master/images/80.jpg" width="360">
@@ -24,7 +24,7 @@ Afterwards I was reading about engines and I bought two engines and motor shield
 ### In effect ? ###
 <img src="https://github.com/dgolak/esp8266/blob/master/images/30.jpg" width="360"> <img src="https://github.com/dgolak/esp8266/blob/master/images/40.jpg" width="360"> <img src="https://github.com/dgolak/esp8266/blob/master/images/50.jpg" width="360">
 
-### Then we used the battery 9V to power the mottor. ###
+### Then we used the battery 9V to power the motor. ###
 <img src="https://github.com/dgolak/esp8266/blob/master/images/90.jpg" width="360">
 
 ### Putting all together: ###
