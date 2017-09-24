@@ -22,17 +22,17 @@ Afterwards I was reading about engines and I bought two engines and motor shield
 ### Together with my son (7years old) we used old lego car body and double sided tape :) ###
 
 ### In effect ? ###
-<img src="https://github.com/dgolak/esp8266/blob/master/images/30.jpg" style="width:360px;">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/40.jpg" style="width:360px;">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/50.jpg" style="width:360px;">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/30.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/40.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/50.jpg" width="360">
 
 ### Then we used the battery 9V to power the mottor. ###
-<img src="https://github.com/dgolak/esp8266/blob/master/images/90.jpg" style="width:360px;">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/90.jpg" width="360">
 
 ### Putting all together: ###
-<img src="https://github.com/dgolak/esp8266/blob/master/images/100.jpg" style="width:360px;">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/110.jpg" style="width:360px;">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/120.jpg" style="width:360px;">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/100.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/110.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/120.jpg" width="360">
 
 When it comes to steering and turning sideways I used trick.
 For example if I wanted turn left I used left engine 30% power and right engine 80-100% power.
@@ -48,10 +48,10 @@ https://github.com/dgolak/esp8266/blob/master/main.py
 Afterwards I wrote wifi connection to my mobile phone, simple webserwer and web application to steering a car.
 
 ### Putting all together: ###
-<img src="https://github.com/dgolak/esp8266/blob/master/images/10.jpg" style="width:360px;">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/20.jpg" style="width:360px;">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/65.jpg" style="width:360px;">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/75.jpg" style="width:360px;">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/10.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/20.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/65.jpg" width="360">
+<img src="https://github.com/dgolak/esp8266/blob/master/images/75.jpg" width="360">
 
 ### To sum up. ###
 It was a great time with my son, we made a simple car with the steering by mobile phone or any devices with the use of WIFI
