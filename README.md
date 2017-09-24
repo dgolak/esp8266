@@ -1,6 +1,5 @@
 # How to build RC Car with the esp8266. #
-<img src="https://github.com/dgolak/esp8266/blob/master/images/20.jpg" width="360">
-<img src="https://github.com/dgolak/esp8266/blob/master/images/65.jpg" width="360">
+| <img src="https://github.com/dgolak/esp8266/blob/master/images/20.jpg" width="360"> | <img src="https://github.com/dgolak/esp8266/blob/master/images/65.jpg" width="360"> |
 
 At the beginning my story I would like to say, that this was my first time to IOT topic.
 I'm a complete beginner, but one thing I have is the desire  to known new technologies.
